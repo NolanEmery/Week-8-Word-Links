@@ -23,10 +23,9 @@ It should look like a tabletop game, or something out of a newspaper.
 
 Test It:
 
-Add more word options to play. Make them similar letter counts. Make more places where the user can play a word. Allow the possibility to connect words horizontally and vertically. Randomize the words. Make it so that the words to choose from are not all related to the words that need to be connected. Make it harder. Make the first word connect to the last word by connecting the last letter of the first word to the first letter of the last word. Add daily challenges that are like Wordle and are unique for each day.
+Add more word options to play. Make them similar letter counts. Make more places where the user can play a word. Allow the possibility to connect words horizontally and vertically. Randomize the words. Make it so that the words to choose from are not all related to the words that need to be connected. Make it harder. Make the first word connect to the last word by connecting the last letter of the first word to the first letter of the last word. 
 
 Expand It:
 
-How did you rework Word Links into a daily challenge?
-Add the ability to change the day for a different puzzle. Each daily challenge should have a normal mode and a challenge mode.
+Add daily challenges that are like Wordle and are unique for each day. Add the ability to change the day for a different puzzle. Each daily challenge should have a normal mode and a challenge mode.
 
